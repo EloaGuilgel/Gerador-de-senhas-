@@ -20,7 +20,7 @@ Este é um projeto de **Gerador de Senhas** que cria senhas seguras e personaliz
 - CSS
 - JavaScript
 
-🔗 Link do projeto [Acesse aqui o Gerador de senha online](https://eloaguilgel.github.io/Gerador-de-senhas/)
+🔗 Link do projeto [Acesse aqui o Gerador de senha online](https://eloaguilgel.github.io/Gerador-de-senhas-)
 
 
 ✨ Objetivo Este projeto foi desenvolvido com fins educacionais, para treinar habilidades em JavaScript e lógica de programação.
